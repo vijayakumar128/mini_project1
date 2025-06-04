@@ -45,7 +45,7 @@ body{
     box-shadow: 0px 15px  25px   hsl(224, 10%, 45%);
 }
 .box4{
-     grid-area: box4;
+    grid-area: box4;
     border-radius: 1rem;
     border: none;
     background-color: hsl(219, 29%, 14%);
@@ -54,7 +54,7 @@ body{
 
 }
 .box5{
-     grid-area: box5;
+    grid-area: box5;
     border-radius: 1rem;
     border: none;
     background-color: hsl(0, 0%, 100%);
