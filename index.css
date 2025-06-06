@@ -21,7 +21,7 @@ body{
     grid-area: box1;
     border-radius: 1rem;
     border: none;
-    background-image: image-set("/images/bg-pattern-quotation.svg");
+    background-image: image-set("bg-pattern-quotation.svg");
     background-repeat: no-repeat;
     background-position: 80% top;
     background-color: hsl(263, 55%, 52%);
